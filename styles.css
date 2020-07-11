@@ -119,7 +119,7 @@
           border-color:#f2711c !important;
       }
       .with-image{
-          background-image: url("/images/baner2.jpg");
+          background-image: url("./images/baner2.jpg");
           width: 100vw;
           height: 100vh;
           position: absolute;
